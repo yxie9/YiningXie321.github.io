@@ -14,11 +14,11 @@
 
 .u-section-1 .u-text-1 {
   font-weight: 700;
-  margin: 36px 333px 0 344px;
+  margin: 45px 333px 0 344px;
 }
 
 .u-section-1 .u-image-1 {
-  margin-top: 50px;
+  margin-top: 41px;
   margin-bottom: 0;
   height: 702px;
 }
@@ -126,7 +126,8 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-right: 123px;
+    width: auto;
+    margin-right: 112px;
     margin-left: 134px;
   }
 
@@ -191,13 +192,13 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-text-1 {
-    margin-right: 0;
-    margin-left: 0;
-    width: 340px;
+    margin-top: 57px;
+    margin-left: 27px;
+    margin-right: 27px;
   }
 
   .u-section-1 .u-image-1 {
-    margin-top: 304px;
+    margin-top: 301px;
     height: 166px;
   }
 
